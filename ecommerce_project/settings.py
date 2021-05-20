@@ -137,5 +137,5 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 EMAIL_HOST = 'smtp.mailgun.org'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'postmaster@mail.techienaman.tech'
-EMAIL_HOST_PASSWORD = 'ccdfb57a2173486639a5418d9e3339d0-3e51f8d2-211b9119'
+EMAIL_HOST_USER = '##############'
+EMAIL_HOST_PASSWORD = '####################'
